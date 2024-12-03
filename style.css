@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    justify-content: center;
+    align-items: end;
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.div1 {
+    border: 2px solid;
+    background-color: white;
+    width: 1440px;
+    height: 1024px;
+}
+
+.tepa {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    margin-left: 175px;
+}
+
+.img1 {
+    width: 175px;
+    height: 47px;
+}
+
+.img3 {
+    width: 40px;
+    height: 40px;
+}
+
+.img2 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    gap: 15px;
+    margin-right: 178px;
+    display: flex;
+    align-items: center;
+}
+
+.pas2 {
+    border: 1px solid rgba(222, 219, 219, 1);
+    width: 650px;
+    height: 786px;
+    border-radius: 50px;
+
+
+}
+
+.pas1 {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.img5 {
+    margin-top: 66px;
+    margin-left: 65px;
+}
+
+.past3 {
+    justify-content: space-between;
+    display: flex;
+}
+
+
+.img6 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    gap: 15px;
+    margin-top: 73px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    color: rgba(14, 13, 93, 1);
+    font-family: Inter;
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+}
+
+.dumaloq {
+    margin-top: 20px;
+    width: 533px;
+    height: 70px;
+    background-color: rgba(245, 245, 245, 1);
+    margin-left: 55px;
+    border-radius: 20px;
+}
+
+button {
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    border: none;
+    margin-top: 8px;
+    margin-left: 9px;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+}
+
+input {
+    color: rgba(117, 117, 117, 1);
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    border: none;
+    margin-top: 8px;
+    margin-left: 9px;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+
+}
+
+.btn1 {
+    color: rgba(117, 117, 117, 0.7);
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    margin-top: 39px;
+    margin-left: 60px;
+}
+
+.btn2 {
+    width: 325px;
+    height: 29px;
+    text-align: start;
+    color: rgba(117, 117, 117, 0.7);
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    margin-top: 39px;
+    margin-left: 60px;
+
+}
+
+.QR {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 18px;
+
+}
+
+
+.btn100 {
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    background: rgba(246, 158, 134, 1);
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 390px;
+    margin-top: 31px;
+
+}
+
+.img100 {
+    position: absolute;
+    top: 830px;
+    right: 910px;
+}
+
+
+.p100 {
+    margin-left: 51px;
+}
+
+.OFF {
+    width: 208px;
+    height: 29px;
+    top: 259px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(240, 64, 15, 1);
+
+}
